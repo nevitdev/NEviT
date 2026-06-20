@@ -3,7 +3,9 @@
 <p align="center">
   Software Engineering student · Dev in progress · Costa Rica
 </p>
-
+<p align="center">
+  <img src="./12.jpg" width="200"/>
+</p>
 <p align="center">
   <em>7 semesters down, 1 to go — building things along the way.</em>
 </p>
